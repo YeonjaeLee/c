@@ -18,5 +18,23 @@
     <ClCompile Include="01_SimpleWhile.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="02_NineNineDan.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="03_TwoToNine.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="04_UsefulDoWhile.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="05_AddToNum.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="06_RealMean.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="07_TwoToNineForVer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -140,6 +140,12 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="01_SimpleWhile.c" />
+    <ClCompile Include="02_NineNineDan.c" />
+    <ClCompile Include="03_TwoToNine.c" />
+    <ClCompile Include="04_UsefulDoWhile.c" />
+    <ClCompile Include="05_AddToNum.c" />
+    <ClCompile Include="06_RealMean.c" />
+    <ClCompile Include="07_TwoToNineForVer.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
