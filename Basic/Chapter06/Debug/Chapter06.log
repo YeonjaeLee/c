@@ -1,0 +1,11 @@
+﻿  09_ScanfConvTwo.c
+d:\yeonjae lee\c\basic\chapter06\09_scanfconvtwo.c(10): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' 선언을 참조하십시오.
+d:\yeonjae lee\c\basic\chapter06\09_scanfconvtwo.c(14): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' 선언을 참조하십시오.
+d:\yeonjae lee\c\basic\chapter06\09_scanfconvtwo.c(18): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' 선언을 참조하십시오.
+  07_FieldWidth.c
+  코드를 생성하고 있습니다...
+  Chapter06.vcxproj -> D:\YeonJae Lee\c\Basic\Debug\Chapter06.exe
+  Chapter06.vcxproj -> D:\YeonJae Lee\c\Basic\Debug\Chapter06.pdb (Partial PDB)
