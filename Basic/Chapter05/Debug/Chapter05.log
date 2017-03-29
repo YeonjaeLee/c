@@ -1,0 +1,6 @@
+﻿  07_ConvDiv.c
+  06_AutoConvOne.c
+d:\yeonjae lee\c\basic\chapter05\06_autoconvone.c(6): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  Chapter05.vcxproj -> D:\YeonJae Lee\c\Basic\Debug\Chapter05.exe
+  Chapter05.vcxproj -> D:\YeonJae Lee\c\Basic\Debug\Chapter05.pdb (Partial PDB)
