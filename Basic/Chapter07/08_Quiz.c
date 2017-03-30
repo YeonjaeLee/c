@@ -58,6 +58,7 @@ int main8_2(void)
 int main8_3(void)
 {
 	int dan = 0, num = 9;
+
 	printf("몇 단? ");
 	scanf("%d", &dan);
 
@@ -81,20 +82,21 @@ int main8_3(void)
 int main8_4(void)
 {
 	int num = 0, total = 1;
+
 	printf("입력정수: ");
 	scanf("%d", &num);
 
 	while (num > 0)
 	{
 		total = total * num;
-		printf("%d ", num);
+		printf(" %d *", num);
 		num--;
-		if (num != 0)
+		/*if (num != 0)
 		{
 			printf("* ");
-		}
+		}*/
 	}
-	printf("= %d \n", total);
+	printf("\b= %d \n", total);
 
 	return 0;
 
@@ -112,16 +114,16 @@ int main8_5(void)
 
 	do
 	{
-		printf("%d ", num);
+		printf(" %d +", num);
 		total = total + num;
-		if (num != 1000)
-		{
-			printf("+ ");
-		}
+		//if (num != 1000)
+		//{
+		//	printf("+ ");
+		//}
 		num++;
 	} while (num != 1001);
 
-	printf("= %d \n", total);
+	printf("\b= %d \n", total);
 
 	return 0;
 

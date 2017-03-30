@@ -139,6 +139,18 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="01_IfBasic.c" />
+    <ClCompile Include="02_CalOne.c" />
+    <ClCompile Include="03_IfElseBasic.c" />
+    <ClCompile Include="04_CalTwo.c" />
+    <ClCompile Include="05_ThreeOperand.c" />
+    <ClCompile Include="06_WhenOver5000.c" />
+    <ClCompile Include="07_ExceptMul2Mul3.c" />
+    <ClCompile Include="07_Mul3Mul4.c" />
+    <ClCompile Include="08_EnglishSchool.c" />
+    <ClCompile Include="09_AdvanEnglishSchool.c" />
+    <ClCompile Include="10_GoToBasic.c" />
+    <ClCompile Include="11_Quiz.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
