@@ -1,3 +1,13 @@
-﻿  07_TwoToNineForVer.c
+﻿  08_Quiz.c
+d:\yeonjae lee\c\basic\chapter07\08_quiz.c(17): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' 선언을 참조하십시오.
+d:\yeonjae lee\c\basic\chapter07\08_quiz.c(40): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' 선언을 참조하십시오.
+d:\yeonjae lee\c\basic\chapter07\08_quiz.c(45): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' 선언을 참조하십시오.
+d:\yeonjae lee\c\basic\chapter07\08_quiz.c(64): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' 선언을 참조하십시오.
+d:\yeonjae lee\c\basic\chapter07\08_quiz.c(87): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' 선언을 참조하십시오.
   Chapter07.vcxproj -> D:\YeonJae Lee\c\Basic\Debug\Chapter07.exe
   Chapter07.vcxproj -> D:\YeonJae Lee\c\Basic\Debug\Chapter07.pdb (Partial PDB)
