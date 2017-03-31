@@ -16,7 +16,6 @@ int main11_1(void)
 		if (i % 7 == 0 || i % 9 == 0)
 		{
 			printf("%d \n", i);
-			continue;
 		}
 	}
 
@@ -139,7 +138,6 @@ int main11_5(void)
 		{
 			printf("재입력하시오. \n");
 			i--;
-			continue;
 		}
 		else
 		{
