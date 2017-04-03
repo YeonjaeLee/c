@@ -139,6 +139,19 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="01_PrintfOutput.c" />
+    <ClCompile Include="02_SimpleAddFunc.c" />
+    <ClCompile Include="03_SmartAddFunc.c" />
+    <ClCompile Include="04_NumCompare.c" />
+    <ClCompile Include="05_AbsoCompare.c" />
+    <ClCompile Include="06_LocalVariable.c" />
+    <ClCompile Include="08_LocalValHideVal.c" />
+    <ClCompile Include="09_GlobalVariable.c" />
+    <ClCompile Include="10_LocalValHideGlobalV.c" />
+    <ClCompile Include="11_StaticLocalVariable.c" />
+    <ClCompile Include="12_RecursiveFunc.c" />
+    <ClCompile Include="13_RecursiveFactorial.c" />
+    <ClCompile Include="14_Quiz.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -144,7 +144,7 @@
     <ClCompile Include="01_RandNum.c" />
     <ClCompile Include="03_Test.c" />
     <ClCompile Include="04_Quiz.c" />
-    <ClCompile Include="test.c" />
+    <ClCompile Include="04_Quiz_sol.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -145,7 +145,6 @@
     <ClCompile Include="04_CalTwo.c" />
     <ClCompile Include="05_ThreeOperand.c" />
     <ClCompile Include="06_WhenOver5000.c" />
-    <ClCompile Include="07_ExceptMul2Mul3.c" />
     <ClCompile Include="07_Mul3Mul4.c" />
     <ClCompile Include="08_EnglishSchool.c" />
     <ClCompile Include="09_AdvanEnglishSchool.c" />

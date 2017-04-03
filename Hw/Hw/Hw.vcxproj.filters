@@ -27,7 +27,7 @@
     <ClCompile Include="04_Quiz.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="test.c">
+    <ClCompile Include="04_Quiz_sol.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

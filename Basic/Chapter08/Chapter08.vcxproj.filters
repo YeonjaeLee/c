@@ -33,9 +33,6 @@
     <ClCompile Include="06_WhenOver5000.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="07_ExceptMul2Mul3.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="07_Mul3Mul4.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
