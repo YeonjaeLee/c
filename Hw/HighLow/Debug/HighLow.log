@@ -1,0 +1,11 @@
+﻿  01_HighLowGame.c
+d:\yeonjae lee\c\hw\highlow\01_highlowgame.c(19): warning C4013: 'srand'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+d:\yeonjae lee\c\hw\highlow\01_highlowgame.c(19): warning C4013: 'time'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+d:\yeonjae lee\c\hw\highlow\01_highlowgame.c(20): warning C4013: 'rand'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+d:\yeonjae lee\c\hw\highlow\01_highlowgame.c(44): warning C4013: 'exit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+d:\yeonjae lee\c\hw\highlow\01_highlowgame.c(35): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' 선언을 참조하십시오.
+d:\yeonjae lee\c\hw\highlow\01_highlowgame.c(131): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' 선언을 참조하십시오.
+  HighLow.vcxproj -> D:\YeonJae Lee\c\Hw\Debug\HighLow.exe
+  HighLow.vcxproj -> D:\YeonJae Lee\c\Hw\Debug\HighLow.pdb (Partial PDB)

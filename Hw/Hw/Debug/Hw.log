@@ -1,14 +1,9 @@
 ﻿  04_Quiz_sol.c
-d:\yeonjae lee\c\hw\hw\04_quiz_sol.c(15): warning C4013: 'time'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-d:\yeonjae lee\c\hw\hw\04_quiz_sol.c(26): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+d:\yeonjae lee\c\hw\hw\04_quiz_sol.c(11): warning C4013: 'time'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+d:\yeonjae lee\c\hw\hw\04_quiz_sol.c(22): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' 선언을 참조하십시오.
-d:\yeonjae lee\c\hw\hw\04_quiz_sol.c(28): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+d:\yeonjae lee\c\hw\hw\04_quiz_sol.c(24): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' 선언을 참조하십시오.
-  04_Quiz.c
-d:\yeonjae lee\c\hw\hw\04_quiz.c(18): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' 선언을 참조하십시오.
-d:\yeonjae lee\c\hw\hw\04_quiz.c(46): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' 선언을 참조하십시오.
-  코드를 생성하고 있습니다...
-  Hw.vcxproj -> D:\YeonJae Lee\c\Hw\Debug\RandNum.exe
-  Hw.vcxproj -> D:\YeonJae Lee\c\Hw\Debug\RandNum.pdb (Partial PDB)
+d:\yeonjae lee\c\hw\hw\04_quiz_sol.c(75): warning C4716: 'main4_2': 값을 반환해야 합니다.
+MSVCRTD.lib(exe_main.obj) : error LNK2019: _main 외부 기호(참조 위치: "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 함수)에서 확인하지 못했습니다.
+D:\YeonJae Lee\c\Hw\Debug\RandNum.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.
