@@ -1,14 +1,12 @@
 ﻿  07_Quiz.c
-d:\yeonjae lee\c\basic\chapter11\07_quiz.c(63): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+d:\yeonjae lee\c\basic\chapter11\07_quiz.c(64): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' 선언을 참조하십시오.
-d:\yeonjae lee\c\basic\chapter11\07_quiz.c(85): warning C4101: 'idx' :참조되지 않은 지역 변수입니다.
-d:\yeonjae lee\c\basic\chapter11\07_quiz.c(101): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+d:\yeonjae lee\c\basic\chapter11\07_quiz.c(86): warning C4101: 'idx' :참조되지 않은 지역 변수입니다.
+d:\yeonjae lee\c\basic\chapter11\07_quiz.c(104): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' 선언을 참조하십시오.
-d:\yeonjae lee\c\basic\chapter11\07_quiz.c(122): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+d:\yeonjae lee\c\basic\chapter11\07_quiz.c(127): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' 선언을 참조하십시오.
-d:\yeonjae lee\c\basic\chapter11\07_quiz.c(172): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+d:\yeonjae lee\c\basic\chapter11\07_quiz.c(177): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' 선언을 참조하십시오.
-d:\yeonjae lee\c\basic\chapter11\07_quiz.c(89): warning C4716: 'main7_2': 값을 반환해야 합니다.
-d:\yeonjae lee\c\basic\chapter11\07_quiz.c(109): warning C4716: 'main7_3': 값을 반환해야 합니다.
   Chapter11.vcxproj -> D:\YeonJae Lee\c\Basic\Debug\Chapter11.exe
   Chapter11.vcxproj -> D:\YeonJae Lee\c\Basic\Debug\Chapter11.pdb (Partial PDB)

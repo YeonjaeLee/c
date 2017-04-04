@@ -8,12 +8,12 @@
 그리고 최대값, 최소값, 모든 수의 합을 구하라. 함수(최대,최소,합)를 정의하여 구현하시오.
 */
 
-int MaxVs7_1(int a[])
+int MaxVs7_1(int a[], int len)
 {
 	int max;
 	max = a[0];
 
-	for (int i = 0; i < 5; i++)
+	for (int i = 0; i < len; i++)
 	{
 		if (max < a[i])
 		{
@@ -24,12 +24,12 @@ int MaxVs7_1(int a[])
 	return max;
 }
 
-int MinVs7_1(int a[])
+int MinVs7_1(int a[], int len)
 {
 	int min;
 	min = a[0];
 
-	for (int i = 0; i < 5; i++)
+	for (int i = 0; i < len; i++)
 	{
 		if (min > a[i])
 		{
@@ -40,11 +40,11 @@ int MinVs7_1(int a[])
 	return min;
 }
 
-int SumNum7_1(int a[])
+int SumNum7_1(int a[], int len)
 {
 	int sum = 0;
 
-	for (int i = 0; i < 5; i++)
+	for (int i = 0; i < len; i++)
 	{
 		sum = sum + a[i];
 	}
@@ -55,18 +55,19 @@ int SumNum7_1(int a[])
 int main7_1(void)
 {
 	int a[5];
+	int len = 5;
 	int input, sum = 0, max, min;
 
-	for (int i = 0; i < 5; i++)
+	for (int i = 0; i < len; i++)
 	{
 		printf("%d 번째 수 입력: ", i + 1);
 		scanf("%d", &input);
 		a[i] = input;
 	}
 		
-	max = MaxVs7_1(a);
-	min = MinVs7_1(a);
-	sum = SumNum7_1(a);
+	max = MaxVs7_1(a, len);
+	min = MinVs7_1(a, len);
+	sum = SumNum7_1(a, len);
 
 	printf("최대: %d \n", max);
 	printf("최소: %d \n", min);

@@ -9,7 +9,7 @@
 3. 숫자를 맞추거나 기회를 다 소진하면 다시 할  것인가를 물어본다.
 */
 
-int main(void)
+int main1(void)
 {
 	int com, user;
 	int count = 6;
