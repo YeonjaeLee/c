@@ -11,6 +11,7 @@
 7. 시도한 횟수를 표시한다.
 */
 
+// 입력 숫자 1 - 9 확인. (ox == 1): true, (ox == 0): false
 int NumOX(int user[], int len)
 {
 	int ox = 0;
@@ -43,12 +44,12 @@ int main(void)
 	{
 		num[1] = rand() % 9 + 1;
 	} while (num[0] == num[1]);
-
 	do
 	{
 		num[2] = rand() % 9 + 1;
 	} while (num[2] == num[1] || num[2] == num[0]);
 
+	// 야구 게임 시작
 	printf("<<야구게임>>\n");
 	printf("1 - 9 까지의 세자리 숫자를 입력하세요. \n\n");
 
@@ -67,6 +68,7 @@ int main(void)
 			len++;
 		}
 
+		// 3자리 확인
 		if (len != 3)
 		{
 			printf("다시 입력해주세요. \n\n");
@@ -75,7 +77,6 @@ int main(void)
 			continue;
 		}
 		
-
 		for (int i = 0; i < len; i++)
 		{
 			user[i] = temp[i] - 48;
@@ -129,19 +130,15 @@ int main(void)
 			{
 				printf("OUT!!! \n\n");
 			}
-			else if (strike == 3)
+			else if (strike == len)
 			{
 				printf("HOME RUN!!! \n\n");
+				printf("YOU WIN!!!\n");
+				break;
 			}
 			else
 			{
 				printf("%d strike\t %d ball \n\n", strike, ball);
-			}
-
-			if (strike == len)
-			{
-				printf("YOU WIN!!!\n");
-				break;
 			}
 			strike = 0;
 			ball = 0;
