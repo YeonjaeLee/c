@@ -20,9 +20,9 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{057DDB30-4CD2-4E11-8B36-FF017B5825DB}</ProjectGuid>
+    <ProjectGuid>{CE6DD588-D600-4373-8952-753E25A95C07}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>NumberFind</RootNamespace>
+    <RootNamespace>Chapter15</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.14393.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,8 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="01_NumberFind.c" />
-    <ClCompile Include="02_Teacher.c" />
+    <ClCompile Include="01_.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

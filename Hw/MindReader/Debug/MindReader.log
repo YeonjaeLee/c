@@ -1,4 +1,9 @@
-﻿  02_MindReader.c
+﻿  03_test.c
+d:\yeonjae lee\c\hw\mindreader\03_test.c(20): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' 선언을 참조하십시오.
+d:\yeonjae lee\c\hw\mindreader\03_test.c(23): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' 선언을 참조하십시오.
+  02_MindReader.c
 d:\yeonjae lee\c\hw\mindreader\02_mindreader.c(21): warning C4013: 'srand'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
 d:\yeonjae lee\c\hw\mindreader\02_mindreader.c(21): warning C4013: 'time'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
 d:\yeonjae lee\c\hw\mindreader\02_mindreader.c(66): warning C4013: 'exit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
@@ -6,5 +11,6 @@ d:\yeonjae lee\c\hw\mindreader\02_mindreader.c(34): warning C4996: 'scanf': This
   c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' 선언을 참조하십시오.
 d:\yeonjae lee\c\hw\mindreader\02_mindreader.c(55): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' 선언을 참조하십시오.
+  코드를 생성하고 있습니다...
   MindReader.vcxproj -> D:\YeonJae Lee\c\Hw\Debug\MindReader.exe
   MindReader.vcxproj -> D:\YeonJae Lee\c\Hw\Debug\MindReader.pdb (Partial PDB)
