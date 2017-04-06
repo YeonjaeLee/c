@@ -10,12 +10,13 @@ Mind Reader
 내가 생각한  숫자와 같으면 y 라고 입력한다.
 */
 
-// 컴퓨터 난수 생성 소스
+// 컴퓨터 최소 횟 수 소스 버전
 
-int main1(void)
+int main2(void)
 {
-	int com, count = 0;
+	int com = 50, count = 0;
 	char user1, user2;
+	int hi = 100, lo = 0;
 
 	srand((int)time(NULL));
 
@@ -23,10 +24,9 @@ int main1(void)
 	printf("if the number is higher than the guess press h \n");
 	printf("if it is less than the guess press l \n");
 	printf("if my guess is correct press y \n");
-	
+
 	while (1)
 	{
-		com = rand() % 100 + 1;
 		printf("is it %d? \n", com);
 
 		while (1)
@@ -51,7 +51,7 @@ int main1(void)
 					continue;
 				}
 			}
-			
+
 			scanf("%c", &user2);
 			count++;
 
@@ -70,7 +70,8 @@ int main1(void)
 				{
 					if ((int)user2 == 10)
 					{
-						printf("\n");
+						lo = com;
+						com = lo + (hi - lo) / 2;
 						count = 0;
 						break;
 					}
@@ -79,7 +80,8 @@ int main1(void)
 				{
 					if ((int)user2 == 10)
 					{
-						printf("\n");
+						hi = com;
+						com = lo + (hi - lo) / 2;
 						count = 0;
 						break;
 					}
