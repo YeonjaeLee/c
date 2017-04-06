@@ -20,9 +20,9 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{CE6DD588-D600-4373-8952-753E25A95C07}</ProjectGuid>
+    <ProjectGuid>{E28EC8B4-37A7-4422-BBBA-D92EA536E5A9}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>Chapter15</RootNamespace>
+    <RootNamespace>Sort</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.14393.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,7 +139,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="01_Quiz.c" />
+    <ClCompile Include="01_BubbleSort.c" />
+    <ClCompile Include="02_QuikSort.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

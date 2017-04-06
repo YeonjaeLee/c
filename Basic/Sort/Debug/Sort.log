@@ -1,0 +1,8 @@
+﻿  02_QuikSort.c
+d:\yeonjae lee\c\basic\sort\02_quiksort.c(27): warning C4090: '함수': 'const' 한정자가 서로 다릅니다.
+d:\yeonjae lee\c\basic\sort\02_quiksort.c(27): warning C4028: 정식 매개 변수 1이(가) 선언과 다릅니다.
+d:\yeonjae lee\c\basic\sort\02_quiksort.c(27): warning C4028: 정식 매개 변수 2이(가) 선언과 다릅니다.
+  01_BubbleSort.c
+  코드를 생성하고 있습니다...
+  Sort.vcxproj -> D:\YeonJae Lee\c\Basic\Debug\Sort.exe
+  Sort.vcxproj -> D:\YeonJae Lee\c\Basic\Debug\Sort.pdb (Partial PDB)

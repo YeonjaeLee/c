@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="01_Quiz.c">
+    <ClCompile Include="01_BubbleSort.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="02_QuikSort.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
