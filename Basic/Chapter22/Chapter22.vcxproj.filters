@@ -21,10 +21,25 @@
     <ClCompile Include="01_TwoPointDistance.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="03_.c">
+    <ClCompile Include="03_StructValAddress.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="04_.c">
+    <ClCompile Include="04_StructArray.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="05_InitStructArray.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="06_StructPointer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="07_StructPointerMem.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="08_PointRelation.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="09_InitStructVal.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

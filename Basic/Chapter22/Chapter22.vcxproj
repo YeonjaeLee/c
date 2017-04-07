@@ -141,8 +141,13 @@
   <ItemGroup>
     <ClCompile Include="01_TwoPointDistance.c" />
     <ClCompile Include="02_TelephoneInfo.c" />
-    <ClCompile Include="03_.c" />
-    <ClCompile Include="04_.c" />
+    <ClCompile Include="03_StructValAddress.c" />
+    <ClCompile Include="04_StructArray.c" />
+    <ClCompile Include="05_InitStructArray.c" />
+    <ClCompile Include="06_StructPointer.c" />
+    <ClCompile Include="07_StructPointerMem.c" />
+    <ClCompile Include="08_PointRelation.c" />
+    <ClCompile Include="09_InitStructVal.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -84,51 +84,78 @@ int main7_2(void)
 */
 int main(void)
 {
-	int idx = 0;
-	int arr[4][4] = { 0 };
-	int st[2][5] = { { "이순신", "강감찬", "을지문덕", "권율", "총점"},{"국어","영어","수학","국사", "총점"} };
+	int score[4][4] = { 0 };
+	char name[4];
+	int namearr[4] = { 0 };
 	int stcount = 0;
-	char stname[] = "";
-	int sum1 = 0, sum2 = 0, sum[5] = { 0 };
 
-	for (stcount = 0; stcount < 4; stcount++)
+	while (1)
 	{
-		printf("%s의 성적입력(국어, 영어, 수학, 국사): ", st[0][stcount]);
-		for (int i = 0; i < 4; i++)
-		{
-			scanf("%d", &arr[i][stcount]);
-		}
-		printf("\n");
+		printf("학생 이름 입력: ");
+		scanf("%s", name);
 	}
-
-	printf("출력: \n");
-	printf("구분\t");
-	for (int i = 0; i < 5; i++)
-	{
-		printf("%7s\t", st[0][i]);
-	}
-	for (int i = 0; i < 4; i++)
-	{
-		printf("%5s\t", st[1][i]);
-		for (int stcount = 0; stcount < 4; stcount++)
-		{
-			sum1 = sum1 + arr[i][stcount];
-			sum2 = sum2 + arr[stcount][i];
-			sum[i] = sum2;
-			printf("%8d\t", arr[i][stcount]);
-		}
-		printf("%d\n", sum1);
-		sum[4] = sum[4] + sum1;
-		sum1 = 0;
-		sum2 = 0;
-	}
-	printf("총점\t");
-	for (int i = 0; i < 4; i++)
-	{
-		printf("%8d\t", sum[i]);
-	}
-	printf("%d\n",sum[4]);
-
-	return 0;
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+//int main(void)
+//{
+//	int idx = 0;
+//	int arr[4][4] = { 0 };
+//	int st[2][5] = { { "이순신", "강감찬", "을지문덕", "권율", "총점"},{"국어","영어","수학","국사", "총점"} };
+//	int stcount = 0;
+//	char stname[] = "";
+//	int sum1 = 0, sum2 = 0, sum[5] = { 0 };
+//
+//	for (stcount = 0; stcount < 4; stcount++)
+//	{
+//		printf("%s의 성적입력(국어, 영어, 수학, 국사): ", st[0][stcount]);
+//		for (int i = 0; i < 4; i++)
+//		{
+//			scanf("%d", &arr[i][stcount]);
+//		}
+//		printf("\n");
+//	}
+//
+//	printf("출력: \n");
+//	printf("구분\t");
+//	for (int i = 0; i < 5; i++)
+//	{
+//		printf("%7s\t", st[0][i]);
+//	}
+//	for (int i = 0; i < 4; i++)
+//	{
+//		printf("%5s\t", st[1][i]);
+//		for (int stcount = 0; stcount < 4; stcount++)
+//		{
+//			sum1 = sum1 + arr[i][stcount];
+//			sum2 = sum2 + arr[stcount][i];
+//			sum[i] = sum2;
+//			printf("%8d\t", arr[i][stcount]);
+//		}
+//		printf("%d\n", sum1);
+//		sum[4] = sum[4] + sum1;
+//		sum1 = 0;
+//		sum2 = 0;
+//	}
+//	printf("총점\t");
+//	for (int i = 0; i < 4; i++)
+//	{
+//		printf("%8d\t", sum[i]);
+//	}
+//	printf("%d\n",sum[4]);
+//
+//	return 0;
+//
+//}
