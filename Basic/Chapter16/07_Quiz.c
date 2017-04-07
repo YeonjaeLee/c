@@ -82,11 +82,11 @@ int main7_2(void)
 4 by 4 배열을  선언하고 사용자로부터 4사람의 4과목 점수를 입력받아 다음의 형태로 값을 저장하고
 총점을 구하는 프로그램을 작성하라.
 */
-int main7_3(void)
+int main(void)
 {
 	int idx = 0;
 	int arr[4][4] = { 0 };
-	int st[2][4] = { { "이순신", "강감찬", "을지문덕", "권율"},{"국어","영어","수학","국사"} };
+	int st[2][5] = { { "이순신", "강감찬", "을지문덕", "권율", "총점"},{"국어","영어","수학","국사", "총점"} };
 	int stcount = 0;
 	char stname[] = "";
 	int sum1 = 0, sum2 = 0, sum[5] = { 0 };
@@ -100,16 +100,13 @@ int main7_3(void)
 		}
 		printf("\n");
 	}
-	printf("%s", st[0][0]);
-	printf("%s", st[0][1]);
 
 	printf("출력: \n");
 	printf("구분\t");
-	for (int i = 0; i < stcount; i++)
+	for (int i = 0; i < 5; i++)
 	{
-		printf("%8s\t", st[0][i]);
+		printf("%7s\t", st[0][i]);
 	}
-	printf("총점\n");
 	for (int i = 0; i < 4; i++)
 	{
 		printf("%5s\t", st[1][i]);

@@ -1,0 +1,6 @@
+﻿  12_ToString.cpp
+d:\yeonjae lee\c\basic\chapter21\12_tostring.cpp(20): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+Debug\12_ToString.obj : warning LNK4042: 개체가 두 번 이상 지정되었습니다. 나머지는 무시됩니다.
+  Chapter21.vcxproj -> D:\YeonJae Lee\c\Basic\Debug\Chapter21.exe
+  Chapter21.vcxproj -> D:\YeonJae Lee\c\Basic\Debug\Chapter21.pdb (Partial PDB)
