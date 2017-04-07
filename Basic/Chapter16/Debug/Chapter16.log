@@ -1,11 +1,9 @@
 ﻿  07_Quiz.c
-d:\yeonjae lee\c\basic\chapter16\07_quiz.c(89): warning C4047: '초기화 중': 'int'의 간접 참조 수준이 'char [7]'과(와) 다릅니다.
-d:\yeonjae lee\c\basic\chapter16\07_quiz.c(89): warning C4047: '초기화 중': 'int'의 간접 참조 수준이 'char [9]'과(와) 다릅니다.
-d:\yeonjae lee\c\basic\chapter16\07_quiz.c(89): warning C4047: '초기화 중': 'int'의 간접 참조 수준이 'char [5]'과(와) 다릅니다.
-d:\yeonjae lee\c\basic\chapter16\07_quiz.c(96): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
-d:\yeonjae lee\c\basic\chapter16\07_quiz.c(99): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+d:\yeonjae lee\c\basic\chapter16\07_quiz.c(105): warning C4047: '=': 'int'의 간접 참조 수준이 'char *'과(와) 다릅니다.
+d:\yeonjae lee\c\basic\chapter16\07_quiz.c(93): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' 선언을 참조하십시오.
-d:\yeonjae lee\c\basic\chapter16\07_quiz.c(108): warning C4477: 'printf' : 서식 문자열 '%7s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
-d:\yeonjae lee\c\basic\chapter16\07_quiz.c(112): warning C4477: 'printf' : 서식 문자열 '%5s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+d:\yeonjae lee\c\basic\chapter16\07_quiz.c(102): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' 선언을 참조하십시오.
+d:\yeonjae lee\c\basic\chapter16\07_quiz.c(108): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
   Chapter16.vcxproj -> D:\YeonJae Lee\c\Basic\Debug\Chapter16.exe
   Chapter16.vcxproj -> D:\YeonJae Lee\c\Basic\Debug\Chapter16.pdb (Partial PDB)

@@ -6,7 +6,7 @@ int sort1_1(int ar[], int lenn)
 
 	for (loop = 0; loop < lenn - 1; loop++) {
 		for (i = 0; i < lenn - 1 - loop; i++) {
-			count1++;
+//			count1++;
 			if (ar[i] > ar[i + 1]) {
 				count2++;
 				temp = ar[i];

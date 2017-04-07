@@ -84,15 +84,33 @@ int main7_2(void)
 */
 int main(void)
 {
-	int score[4][4] = { 0 };
+	int score[20][20] = { 0 };
 	char name[4];
-	int namearr[4] = { 0 };
-	int stcount = 0;
+	int namearr[20] = { 0 };
+	int idx = 0, stnum = 0, stcount = 0;
 
+	printf("입력할 학생 수: ");
+	scanf("%d", &stnum);
+	stcount = stnum;
 	while (1)
 	{
+		if (stcount == 0)
+		{
+			break;
+		}
 		printf("학생 이름 입력: ");
 		scanf("%s", name);
+		printf("name: %s \n", name);
+
+		namearr[idx] = name;
+		for (int i = 0; i < stnum; i++)
+		{
+			printf("namearr: %s \n", namearr[i]);
+
+		}
+
+		idx++;
+		stcount--;
 	}
 
 }
