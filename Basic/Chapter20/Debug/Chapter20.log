@@ -1,0 +1,5 @@
+﻿  01_Quiz.c
+d:\yeonjae lee\c\basic\chapter20\01_quiz.c(96): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' 선언을 참조하십시오.
+  Chapter20.vcxproj -> D:\YeonJae Lee\c\Basic\Debug\Chapter20.exe
+  Chapter20.vcxproj -> D:\YeonJae Lee\c\Basic\Debug\Chapter20.pdb (Partial PDB)
