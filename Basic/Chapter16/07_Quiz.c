@@ -82,7 +82,7 @@ int main7_2(void)
 4 by 4 배열을  선언하고 사용자로부터 4사람의 4과목 점수를 입력받아 다음의 형태로 값을 저장하고
 총점을 구하는 프로그램을 작성하라.
 */
-int main(void)
+int main7_3(void)
 {
 	int score[20][20] = { 0 };
 	char name[4];
