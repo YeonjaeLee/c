@@ -36,10 +36,19 @@
     <ClCompile Include="07_BinaryFileCopy.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="08_.c">
+    <ClCompile Include="09_ComplexFileRead.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="09_.c">
+    <ClCompile Include="08_ComplexFileWrite.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10_StructFileWriteRead.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11_MoveFileReWrPos.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="12_TellFileReWrPos.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

@@ -1,15 +1,12 @@
-﻿  09_.c
-  08_.c
-  07_BinaryFileCopy.c
-  06_TextStringFileCopy.c
-  05_TextCharFileCopy.c
-  04_TextDataFileRead.c
-  03_TextDataFileWrite.c
-  02_FirstFileRead.c
-d:\yeonjae lee\c\basic\chapter24\02_firstfileread.c(6): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+﻿  12_TellFileReWrPos.c
+d:\yeonjae lee\c\basic\chapter24\12_tellfilerewrpos.c(9): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
-  01_FirstFileWrite.c
-d:\yeonjae lee\c\basic\chapter24\01_firstfilewrite.c(5): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+d:\yeonjae lee\c\basic\chapter24\12_tellfilerewrpos.c(14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+  11_MoveFileReWrPos.c
+d:\yeonjae lee\c\basic\chapter24\11_movefilerewrpos.c(6): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+d:\yeonjae lee\c\basic\chapter24\11_movefilerewrpos.c(11): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
   코드를 생성하고 있습니다...
   Chapter24.vcxproj -> D:\YeonJae Lee\c\Basic\Debug\Chapter24.exe

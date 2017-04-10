@@ -146,8 +146,11 @@
     <ClCompile Include="05_TextCharFileCopy.c" />
     <ClCompile Include="06_TextStringFileCopy.c" />
     <ClCompile Include="07_BinaryFileCopy.c" />
-    <ClCompile Include="08_.c" />
-    <ClCompile Include="09_.c" />
+    <ClCompile Include="08_ComplexFileWrite.c" />
+    <ClCompile Include="09_ComplexFileRead.c" />
+    <ClCompile Include="10_StructFileWriteRead.c" />
+    <ClCompile Include="11_MoveFileReWrPos.c" />
+    <ClCompile Include="12_TellFileReWrPos.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
