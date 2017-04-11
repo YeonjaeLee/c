@@ -1,0 +1,5 @@
+﻿  main.c
+d:\yeonjae lee\c\fileseperate\08-duplicationerror\stdiv.h(2): error C2011: 'div': 'struct' 형식 재정의
+  d:\yeonjae lee\c\fileseperate\08-duplicationerror\stdiv.h(2): note: 'div' 선언을 참조하십시오.
+  intdiv3.c
+  코드를 생성하고 있습니다...

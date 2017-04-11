@@ -1,0 +1,6 @@
+﻿  main.c
+  counter.c
+c:\users\kym2-05\documents\visual studio 2017\projects\fileseperate\03-simpleseperate2\counter.c(15): warning C4098: 'GetCnt': 'void' 함수에서 값을 반환하고 있습니다.
+  코드를 생성하고 있습니다...
+  03-SimpleSeperate2.vcxproj -> c:\users\kym2-05\documents\visual studio 2017\Projects\FileSeperate\Debug\03-SimpleSeperate2.exe
+  03-SimpleSeperate2.vcxproj -> c:\users\kym2-05\documents\visual studio 2017\Projects\FileSeperate\Debug\03-SimpleSeperate2.pdb (Partial PDB)
