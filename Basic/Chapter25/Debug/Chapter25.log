@@ -1,0 +1,11 @@
+﻿  04_ReadStringRight.c
+d:\yeonjae lee\c\basic\chapter25\04_readstringright.c(5): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+d:\yeonjae lee\c\basic\chapter25\04_readstringright.c(7): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  03_DynamicMemoryAllocation.c
+d:\yeonjae lee\c\basic\chapter25\03_dynamicmemoryallocation.c(5): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+d:\yeonjae lee\c\basic\chapter25\03_dynamicmemoryallocation.c(20): warning C4013: 'free'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  02_ReadStringFault2.c
+d:\yeonjae lee\c\basic\chapter25\02_readstringfault2.c(8): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  코드를 생성하고 있습니다...
+  Chapter25.vcxproj -> D:\YeonJae Lee\c\Basic\Debug\Chapter25.exe
+  Chapter25.vcxproj -> D:\YeonJae Lee\c\Basic\Debug\Chapter25.pdb (Partial PDB)
