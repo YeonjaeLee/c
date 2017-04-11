@@ -3,7 +3,7 @@
 
 #include <time.h>	//clock, time, localtime
 #include <stdio.h>	//printf
-#include <conio.h>	//kbhit
+#include <conio.h>	//kbhit(키누름 확인)
 #include <Windows.h>//SetConsoleCursorPostion
 
 void print_time(struct tm *now, int tail)
