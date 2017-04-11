@@ -1,12 +1,1 @@
-﻿  08_BitRightShift.c
-  07_BitLeftShift.c
-  06_BitNotOperation.c
-  05_BitXorOperation.c
-  04_BitOrOperation.c
-  03_BitAndOperation.c
-  02_FloatError.c
-d:\yeonjae lee\c\basic\chapter04\02_floaterror.c(9): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  01_Notation.c
-  코드를 생성하고 있습니다...
-MSVCRTD.lib(exe_main.obj) : error LNK2019: _main 외부 기호(참조 위치: "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 함수)에서 확인하지 못했습니다.
-D:\YeonJae Lee\c\Basic\Debug\Chapter04.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.
+﻿
