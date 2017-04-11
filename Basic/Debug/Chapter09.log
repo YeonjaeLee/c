@@ -1,1 +1,30 @@
-﻿
+﻿  14_Quiz.c
+d:\yeonjae lee\c\basic\chapter09\14_quiz.c(50): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' 선언을 참조하십시오.
+d:\yeonjae lee\c\basic\chapter09\14_quiz.c(88): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' 선언을 참조하십시오.
+d:\yeonjae lee\c\basic\chapter09\14_quiz.c(93): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' 선언을 참조하십시오.
+d:\yeonjae lee\c\basic\chapter09\14_quiz.c(100): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' 선언을 참조하십시오.
+  13_RecursiveFactorial.c
+  12_RecursiveFunc.c
+  11_StaticLocalVariable.c
+  10_LocalValHideGlobalV.c
+  09_GlobalVariable.c
+  08_LocalValHideVal.c
+  06_LocalVariable.c
+  05_AbsoCompare.c
+d:\yeonjae lee\c\basic\chapter09\05_absocompare.c(10): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' 선언을 참조하십시오.
+  04_NumCompare.c
+d:\yeonjae lee\c\basic\chapter09\04_numcompare.c(5): warning C4013: 'NumberCompare4'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  03_SmartAddFunc.c
+d:\yeonjae lee\c\basic\chapter09\03_smartaddfunc.c(16): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' 선언을 참조하십시오.
+  02_SimpleAddFunc.c
+  01_PrintfOutput.c
+  코드를 생성하고 있습니다...
+d:\yeonjae lee\c\basic\chapter09\14_quiz.c(108): warning C4716: 'main14_2': 값을 반환해야 합니다.
+MSVCRTD.lib(exe_main.obj) : error LNK2019: _main 외부 기호(참조 위치: "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 함수)에서 확인하지 못했습니다.
+D:\YeonJae Lee\c\Basic\Debug\Chapter09.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.

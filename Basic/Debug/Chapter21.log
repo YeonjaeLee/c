@@ -1,1 +1,37 @@
-﻿
+﻿  12_ToString.c
+d:\yeonjae lee\c\basic\chapter21\12_tostring.c(12): warning C4013: 'atoi'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+d:\yeonjae lee\c\basic\chapter21\12_tostring.c(17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+  11_StringAtoILF.c
+d:\yeonjae lee\c\basic\chapter21\11_stringatoilf.c(8): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' 선언을 참조하십시오.
+d:\yeonjae lee\c\basic\chapter21\11_stringatoilf.c(12): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' 선언을 참조하십시오.
+  10_StringCornpCase.c
+d:\yeonjae lee\c\basic\chapter21\10_stringcornpcase.c(14): warning C4013: 'strcmp'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+d:\yeonjae lee\c\basic\chapter21\10_stringcornpcase.c(22): warning C4013: 'strncmp'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+d:\yeonjae lee\c\basic\chapter21\10_stringcornpcase.c(9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' 선언을 참조하십시오.
+d:\yeonjae lee\c\basic\chapter21\10_stringcornpcase.c(12): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' 선언을 참조하십시오.
+  09_StringConcatCase.c
+d:\yeonjae lee\c\basic\chapter21\09_stringconcatcase.c(12): warning C4013: 'strcat'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+d:\yeonjae lee\c\basic\chapter21\09_stringconcatcase.c(16): warning C4013: 'strncat'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  08_StringCopyCase.c
+d:\yeonjae lee\c\basic\chapter21\08_stringcopycase.c(10): warning C4013: 'strcpy'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+d:\yeonjae lee\c\basic\chapter21\08_stringcopycase.c(14): warning C4013: 'strncpy'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  07_RemoveBSN.c
+d:\yeonjae lee\c\basic\chapter21\07_removebsn.c(5): warning C4013: 'strlen'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  06_InputBufFlush.c
+  05_NeedInputBufFlush.c
+  04_ReadString.c
+  03_WriteString.c
+  02_ConsoleEOF.c
+  01_ReadWriteChar.c
+  코드를 생성하고 있습니다...
+  12_ToString.cpp
+d:\yeonjae lee\c\basic\chapter21\12_tostring.cpp(20): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+Debug\12_ToString.obj : warning LNK4042: 개체가 두 번 이상 지정되었습니다. 나머지는 무시됩니다.
+MSVCRTD.lib(exe_main.obj) : error LNK2019: _main 외부 기호(참조 위치: "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 함수)에서 확인하지 못했습니다.
+D:\YeonJae Lee\c\Basic\Debug\Chapter21.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.
