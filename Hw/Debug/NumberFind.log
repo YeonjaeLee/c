@@ -1,1 +1,9 @@
-﻿
+﻿  02_Teacher.c
+d:\yeonjae lee\c\hw\numberfind\02_teacher.c(22): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' 선언을 참조하십시오.
+  01_NumberFind.c
+d:\yeonjae lee\c\hw\numberfind\01_numberfind.c(28): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' 선언을 참조하십시오.
+  코드를 생성하고 있습니다...
+  NumberFind.vcxproj -> D:\YeonJae Lee\c\Hw\Debug\NumberFind.exe
+  NumberFind.vcxproj -> D:\YeonJae Lee\c\Hw\Debug\NumberFind.pdb (Partial PDB)
